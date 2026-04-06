@@ -19,7 +19,7 @@ A command-line tool that classifies Windows Event Log lines by Event ID.
 - Runs continuously until user exits
 
 **How to run:**
-python phase1/log_classifier.py
+python log_classifier.py
 
 **Example input:**
 2026-04-05 FAILED LOGIN user=admin src=1.2.3.4 event_id=4625
